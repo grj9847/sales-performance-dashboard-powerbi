@@ -19,12 +19,13 @@ This project focuses on analyzing sales performance, profit trends, and target a
 - Analyzed seasonal sales trends
 - Improved business decision-making through data visualization
 
-## 📷 Dashboard Preview
-(Add screenshots here)
-
 ## 📁 Files Included
 - Power BI dashboard (.pbix)
 - Dataset (if available)
+
+  
+## 📷 Dashboard Preview
+(Add screenshots here)
   
 <img width="1278" height="717" alt="Screenshot 2026-03-17 221817" src="https://github.com/user-attachments/assets/8a9782a3-5408-4054-8278-c5bb46042bdb" />
 <img width="1280" height="719" alt="Screenshot 2026-03-17 221823" src="https://github.com/user-attachments/assets/34c00bac-74ce-4ba0-8b16-e63a4bc93195" />
