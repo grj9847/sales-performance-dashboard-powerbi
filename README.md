@@ -21,8 +21,6 @@ This project focuses on analyzing sales performance, profit trends, and target a
 
 ## 📁 Files Included
 - Power BI dashboard (.pbix)
-- Dataset (if available)
-
   
 ## 📷 Dashboard Preview
   
