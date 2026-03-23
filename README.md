@@ -6,6 +6,7 @@ This project focuses on analyzing sales performance, profit trends, and target a
 ## 🛠 Tools Used
 - Power BI
 - DAX
+- Power Query
 - Excel
 
 ## 📈 Key Features
@@ -13,6 +14,14 @@ This project focuses on analyzing sales performance, profit trends, and target a
 - Target vs Achievement analysis
 - Monthly trend analysis
 - Category & sub-category performance insights
+- - DAX measures including:
+  - Profit Margin %
+  - Sales Growth %
+  - Target Achievement %
+  - Target Variance %
+  - Sales vs Target
+  - Previous Month Sales
+- Optimized data model with 5 tables (Orders, Date, Category, Sales Target, Measures)
 
 ## 🔍 Key Insights
 - Identified top-performing and loss-making products
